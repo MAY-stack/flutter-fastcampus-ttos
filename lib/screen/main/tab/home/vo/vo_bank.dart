@@ -1,6 +1,6 @@
 class Bank {
   final String name;
-  final String localImagePath;
+  final String logoImagePath;
 
-  Bank(this.name, this.localImagePath);
+  Bank(this.name, this.logoImagePath);
 }
